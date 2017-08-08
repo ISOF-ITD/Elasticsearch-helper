@@ -1,0 +1,19 @@
+{
+  "name": "elasticsearch-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "createindex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ISOF-ITD/Elasticsearch-helper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ISOF-ITD/Elasticsearch-helper/issues"
+  },
+  "homepage": "https://github.com/ISOF-ITD/Elasticsearch-helper#readme"
+}

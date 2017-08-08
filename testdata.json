@@ -1,0 +1,163 @@
+[
+
+	{
+		"id": "1",
+		"title": "Kyrkobygge",
+		"text": "Det var några sockenmän, som kivades om var de skulle bygga kyrkan. Den ene ville ha den där och den andre där. Då kom de överens om att de skulle knyta en sten efter en släde, som drogs av oxar. Och så sa en av dem, att får jag min vilja fram, så vill jag att kyrkan skall byggas där oxarna stannar med stenen. Han fick sin vilja fram och kyrkan blev byggd där oxarna stannade. Det skulle vara Jonsereds kyrka.",
+		"document_type": "arkiv",
+		"year": "1942",
+		"page": {
+			"number": "1"
+		},
+		"persons": [
+			{
+				"id": "3",
+				"name": "Ragnar Nilsson",
+				"birth_year": "1893",
+				"gender": "m",
+				"home":
+				{
+					"id": "1843",
+					"name": "Bro sn",
+					"harad": "Näs hd",
+					"landskap": "Värmland",
+					"county": "Värmlands län",
+					"lat": "59.183056",
+					"lng": "13.002778"
+				}
+			},
+			{
+				"id": "1372",
+				"name": "Maria Norberg",
+				"birth_year": "1855",
+				"gender": "k"
+			}
+		]
+	},
+
+	{
+		"id": "2",
+		"title": "Djävulen",
+		"text": "Det var hos en torpare som fyllhundar brukade hålla till. Di söp och spelade kort om helgdagskvällarna och nätterna. En natt var de ovänner och oregärliga vid bordet. Då fick en i laget se att en svart lurvig hund stod bakom en av spelarna. Han hade eld i baken. Det blev brått slut med kortspelet. Och se'n spelade man inte kort i den stugan. Han var med överallt där det gick vilt till. Vid kyrkan hade han mycket att beställa. Han skulle hålla reda på alla osaliga som låg i kyrkogården. När en osalig dog och fördes till graven, så följde han med på kistan. Det talade di också på; Men skulle man få se honom på något ställe, så var det vid kyrkogården om natten. Han kunde ha många skepnader. Ibland var han en stor fågel och ibland som en hund. Den enda som kunde läsa bort honom var prästen. Om han tog kappan och kragen på sig, så hade inte den Onde makt med honom.<br \/>\n<br \/>\nNamn på Djävulen; Den fule, Den Onde, den Stygge. Skam, Satan, djävulen, pocker. Det var inte bra att nämna honom vid namn. På kvällen ville man det inte gärna. Han tog de barn som inte blev döpta. Om någon tog liv av barnet så var han med och tog vara på det.",
+		"document_type": "arkiv",
+		"year": "1944",
+		"page": {
+			"number": "1"
+		},
+		"persons": [
+			{
+				"id": "3",
+				"name": "Ragnar Nilsson",
+				"birth_year": "1893",
+				"gender": "m",
+				"home": {
+					"id": "1843",
+					"name": "Bro sn",
+					"harad": "Näs hd",
+					"landskap": "Värmland",
+					"county": "Värmlands län",
+					"lat": "59.183056",
+					"lng": "13.002778"
+				}
+			},
+			{
+				"id": "1377",
+				"name": "Johan Svensson",
+				"birth_year": "1875",
+				"gender": "m"
+			}
+		]
+	},
+	{
+		"id": "3",
+		"title": "Undersägen",
+		"text": "En bonde gick och plöjde på sin åker. Då inträffade den olyckan, att den ena av oxarna framför plogen stupade och dog knall och fall. Det var ett svårt slag för den stackars bonden, men det var ju ingenting annat att göra än att gräva ned det döda djuret.<br \/>\n<br \/>\nBonden gick hem efter en spade och började gräva en grop i åkern. Ett stycke ned i jorden hittade han ett kors. Då blev han glad och utropade: \"Är detta ett heligt kors, så står la min oxe upp igen\". Och det skedde så, och oxen blev levande igen, men det märkvärdiga var, att han hade den ena sidan vit och den andra svart alltsedan den dagen.",
+		"document_type": "arkiv",
+		"year": "1926",
+		"page": {
+			"number": "1"
+		},
+		"persons": [
+			{
+				"id": "1006",
+				"name": "Johan Kalén",
+				"birth_year": "0",
+				"gender": "m"
+			},
+			{
+				"id": "1378",
+				"name": "Johan Petter (Peter) Andersson",
+				"birth_year": "1836",
+				"gender": "m"
+			}
+		]
+	},
+	{
+		"id": "4",
+		"title": "Åskan och vattenådrorna",
+		"text": "Där det är två vattenådror som korsas, där är åskan hågad att slå ner.",
+		"document_type": "tryckt",
+		"year": "1938",
+		"page": {
+			"number": "1"
+		},
+		"persons": [
+			{
+				"id": "217",
+				"name": "Ella Odstedt",
+				"birth_year": "1892",
+				"gender": "k",
+				"home":
+				{
+					"id": "1959",
+					"name": "Arnäs sn",
+					"harad": "Ångermanlands n. d:a tg",
+					"landskap": "Ångermanland",
+					"county": "Västernorrlands län",
+					"lat": "63.319065",
+					"lng": "18.797218"
+				}
+			},
+			{
+				"id": "708",
+				"name": "Lucia Olsson",
+				"birth_year": "1865",
+				"gender": "k"
+			}
+		]
+	},
+	{
+		"id": "5",
+		"title": "Tomtfläta",
+		"text": "Tomta fletta mana åt hästan. Ja minns det var en gammal gumma som berätta det. Och det var bra för hästan då dom hade tomtfläta, det var lycka med dem då.<br \/>\n<br \/>\nMen aldrig har jag hört att dom ha sett tomtan.<br \/>\n<br \/>\n",
+		"document_type": "arkiv",
+		"year": "1950",
+		"page": {
+			"number": "1"
+		},
+		"persons": [
+			{
+				"id": "217",
+				"name": "Ella Odstedt",
+				"birth_year": "1892",
+				"gender": "k",
+				"home":
+				{
+					"id": "1959",
+					"name": "Arnäs sn",
+					"harad": "Ångermanlands n. d:a tg",
+					"landskap": "Ångermanland",
+					"county": "Västernorrlands län",
+					"lat": "63.319065",
+					"lng": "18.797218"
+				}
+			},
+			{
+				"id": "1306",
+				"name": "Anna Asp",
+				"birth_year": "1868",
+				"gender": "k"
+			}
+		]
+	}
+]
